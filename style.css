@@ -257,12 +257,12 @@ center{
       color: white;
   }
   #sidebarMenu {
-      height: 60%;
+      height: 100%;
       position: fixed;
-      left: 0;
+      right: 0;
       width: 250px;
       margin-top: 24px;
-      transform: translateX(-250px);
+      transform: translateX(250px);
       transition: transform 250ms ease-in-out;
       background: linear-gradient(180deg, #FC466B 0%, #3F5EFB 100%);
   }
