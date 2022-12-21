@@ -1,0 +1,270 @@
+@media (min-width: 320px) and (max-width: 480px){
+    .box{
+        display: block;
+      }
+    .menu3 .menu-item{
+        display: none;
+    }
+    .head1 .logo-img {
+        width: 50px;
+    }
+    .text1 h1{
+        font-size: 10px;
+    }
+    .text_t{
+        width: 100%;
+        height: 70px;
+        margin-top: 20px;
+    }
+    .text_t h1{
+        font-size: 10px;
+        text-align: center;
+        padding-top:35px ;
+    }
+    .logo_l {
+        width: 30%;
+        margin: auto;
+    }
+    .slide{
+        width: 100%;
+        margin:30px 5px;
+    }
+    .slide p{
+        font-size: 10px;  
+    }
+    .call {
+        width: 30%;
+        height: 8%;
+        margin: 0px auto;
+    }
+    .A h1 {
+        text-align: center;
+        font-size: 20px;
+        color: rgb(10, 10, 10);
+    }
+    center {
+        font-size: 15px;
+        padding-left: 10px;
+    }
+    .containA{
+        display: inline-block;
+    }
+    .containA .containA1{
+        width: 100%;
+    }
+    .boxB1_img {
+        width: 100%;
+    }
+    .box_text h1{
+        font-size: 15px;
+    }
+    .box_text p{
+        font-size: 15px;
+        padding: 5px;
+    }
+    .containB1 {
+        width: 20%;
+        margin: 10px auto;
+        border-radius: 5px;
+    }
+    .box_text h1{
+        font-size: 20px;
+    }
+    .textB3 p{
+        font-size:15px ;
+    }
+    .textB2 h1 {
+        font-size: 20px;
+    }
+    .textB2{
+        margin-left: 10px;
+    }
+    .textB2 h4{
+        font-size: 15px;
+        color: rgba(0, 0, 0, 0.463);
+    }
+    .textB2 .h4 ul {
+        margin-left: 40px;
+    }
+    .footer_A{
+        width: 100%;
+        display:inline-block;
+    }
+    .footer_A1 {
+        width: 100%;
+        text-align: center;
+    }
+    .footer_A1 p{
+        font-size: 10px;
+    }
+    .footer_A1 h1{
+        font-size:15px;
+        color: black;
+    }
+    .footer_img {
+        width: 40%;
+        margin: 5px auto;
+    }
+    .footer_text {
+        width: 100%;
+    }
+    .footer_B{
+        padding: 10px 70px;
+    }
+    .footer_B p{
+        font-size: 10px;
+    }
+}
+@media (min-width: 481px) and (max-width: 767px){
+    .menu3 .menu-item{
+        display: none;
+    }
+    .box{
+        display: block;
+      }
+      .sidebarIconToggle{
+          margin:20px 20px;
+      }
+      .head1 .logo-img {
+        width: 100px;
+    }
+    #sidebarMenu{
+        margin-top: 35px;
+    }
+    .text_t{
+        width: 90%;
+        height: 100px;
+        margin-top: 20px;
+    }
+    .text_t h1{
+        font-size: 10px;
+        padding: 50px 0px;
+    }
+    .text_t h1{
+        font-size: 15px;
+        text-align: center;
+    }
+    .logo_l {
+        width: 30%;
+        margin: auto;
+    }
+    .slide{
+        width: 100%;
+        margin:30px 5px;
+    }
+    .slide p{
+        font-size: 15px;  
+    }
+    .call {
+        width: 30%;
+        height: 8%;
+        margin: 0px auto;
+    }
+    .logo .text {
+        width: 30%;
+        height: 75%;
+        margin: 40px 20px;
+        color: white;
+    }
+    .A h1{
+        text-align: center;
+        font-size: 20px;
+    }
+    h1{
+        font-size: 25px;
+    }
+   .containA p{
+        font-size: 20px;
+    }
+    .containA{
+        display: inline-block;
+    }
+    .text1 p{
+        font-size: 20px;
+    }
+    .containA1{
+        width: 100%;
+    }
+    .containB1 {
+        width: 20%;
+        margin: 20px auto;
+        border-radius: 5px;
+    }
+    .box_text{
+        padding-left: 5px;
+    }
+    .textB2 h4{
+        font-size:20px;
+    }
+    center {
+        font-size: 20px;
+        padding-left: 22px;
+    }
+    .textB2 .h4 ul {
+        margin-left: 40px;
+    }
+    .footer_A{
+        display: inline-block;
+        width: 100%;
+    }
+    .footer_A1{
+        width: 45%;
+        float: left;
+        margin-top: 10px 10px;
+    }
+    .footer_A1 h1{
+        color: rgb(255, 6, 6);
+    }
+    .footer_B {
+      padding:5px 50px;
+    }
+}
+@media (min-width: 768px) and (max-width: 1024px){
+    .box{
+        display: none;
+      }
+    .text_t{
+        width: 100%;
+        height: 200px;
+        margin-top: 20px;
+    }
+    .text_t h1{
+        font-size: 20px;
+        text-align: center;
+        padding-top: 130px;
+    }
+    .logo_l {
+        width: 30%;
+        margin: auto;
+    }
+    .slide {
+        width: 100%;
+        margin: 10px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .call {
+        width: 20%;
+        margin: 10px auto;
+    }
+    .box_img {
+        width: 50%;
+        height: 30%;
+        margin: 10px auto;
+    }
+   
+    .containA1 {
+        width: 30%;
+        height: 100%;
+    }
+    .containB1 {
+        width: 20%;
+        margin: 20px auto;
+    }
+    .footer_B {
+        padding:5px 50px;
+        text-align: center;
+      }
+    
+}
